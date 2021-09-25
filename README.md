@@ -4,8 +4,8 @@
 
 <p align="center">
    🌎 My SNS 🌎
-
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100053650451402)](https://www.facebook.com/profile.php?id=100053650451402)
+<div style="center"
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100053650451402)](https://www.facebook.com/profile.php?id=100053650451402)</div>
 
 <p align="center">
    🔨 Languages 🔧 <br><br>
