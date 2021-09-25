@@ -14,3 +14,10 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SwiftUI-2D2E83?&style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C/C++-00599C?&style=flat-square&logo=C&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+
+<p align="center">
+   🔨 Tools 🔧 <br><br>
+   <img src="https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white"/></a> &nbsp
+   <img src="https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white"></a> &nbsp
+   
