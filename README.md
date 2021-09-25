@@ -21,3 +21,4 @@
    <img src="https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white"/></a> &nbsp
    <img src="https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white"></a> &nbsp
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
+   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
