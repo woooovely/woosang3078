@@ -14,6 +14,6 @@
 
 <h3 align="center">
    🔨 Tools 🔧 <br><br>
-   <img src="https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white"></a> &nbsp
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white"></a> &nbsp
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
